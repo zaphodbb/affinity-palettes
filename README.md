@@ -4,6 +4,9 @@ Palette files for use in Affinity Designer and Affinity Photo
 # Usage
 These palette files are swatch palettes for Serif Affinity products, namely Affinity Designer and Affinity Photo.  To use these files:
 
+This process can be followed in [this video](https://www.youtube.com/watch?v=6V-FnUimdWI&t=115s)
+
+* Open Affinity Designer or Affinity Photo
 * Open or create a file, content does not matter, you simply have to have a file open to enable some of the palette features.
 * Enable and access your Swatches window in Designer or Photo (Window -> Swatches).
 * In the Swatches window, Click on the little 'hamburger' menu in the top right and select 'Import Palette'.
